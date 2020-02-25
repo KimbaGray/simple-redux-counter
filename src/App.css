@@ -1,0 +1,22 @@
+.money {
+  font-size: 100px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.initialMoney {
+  padding: 20px;
+}
+
+.emoji {
+  height: 150px;
+}
+
+.buttonFont {
+  font-family: "Times New Roman", Times, serif;
+}
+
+button {
+  font-size: 20px;
+  border-radius: 10px;
+}
